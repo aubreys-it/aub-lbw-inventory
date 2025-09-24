@@ -27,7 +27,12 @@ This Flask-based web application helps multi-location restaurants manage their l
 ---
 
 ## 🧰 Tech Stack
-
+- Frontend: HTML, CSS, JS (Bootstrap)
+- Backend: Flask (Python)
+- Database: Azure SQL
+- Auth: Flask-Login
+- Hosting: Azure Web App
+- Versioning: GitHub
 
 ---
 
