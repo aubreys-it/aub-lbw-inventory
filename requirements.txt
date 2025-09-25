@@ -1,7 +1,7 @@
 Flask
 Flask-Login
 Flask-Mail
-SQLAlchemy
+Flask-SQLAlchemy
 itsdangerous
 pyodbc
 werkzeug
