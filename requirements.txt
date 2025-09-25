@@ -1,0 +1,7 @@
+Flask
+Flask-Login
+Flask-Mail
+SQLAlchemy
+itsdangerous
+pyodbc
+werkzeug
